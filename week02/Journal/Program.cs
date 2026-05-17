@@ -24,7 +24,7 @@ class Program
             switch (choice)
             {
                 case "1":
-                    myJournal.AddNewEntry();
+                    myJournal.AddEntry();
                     break;
                 case "2":
                     myJournal.DisplayAll();

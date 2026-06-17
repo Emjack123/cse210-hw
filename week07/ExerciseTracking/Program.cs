@@ -34,7 +34,7 @@ namespace FitnessTracker
         }
     }
 
-    // ==========================================
+    
     // DERIVED CLASS: Running
     // ==========================================
     public class Running : Activity

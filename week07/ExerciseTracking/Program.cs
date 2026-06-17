@@ -3,8 +3,7 @@ using System.Collections.Generic;
 
 namespace FitnessTracker
 {
-    // ==========================================
-    // BASE CLASS: Activity
+        // BASE CLASS: Activity
     // ==========================================
     public abstract class Activity
     {

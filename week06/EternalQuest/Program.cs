@@ -5,7 +5,7 @@ using System.Text.Json;
 
 namespace EternalQuest
 {
-    // ==========================================
+    
     // BASE CLASS (Inheritance & Encapsulation)
     // ==========================================
     public abstract class Goal
